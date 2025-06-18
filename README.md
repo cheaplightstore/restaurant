@@ -29,54 +29,35 @@ Here is a complete list of the guides available:
 -   **[Google Maps vs. Delivery Apps for Fast-Food Restaurants](./articles/google-maps-restaurant-guide.md)**
     -   Learn how to leverage Google Maps for free customer acquisition and break free from the high commissions of delivery apps.
 
-<br>
+---
 
-## 🚀 关于本项目 (About This Project)
+## 🚀 About This Project
 
-这个仓库是 **Yingrest** 团队发起的内容项目，旨在为身处激烈竞争中的餐厅老板们提供真正有价值的、可执行的线上营销和运营策略。我们深知您每天面临的困境——高昂的平台佣金、看不见的客户数据、以及在谷歌地图等本地搜索中的获客难题。
+This repository is a content project by the **Yingrest** team, designed to provide restaurant owners with actionable online marketing and operations strategies. We understand the daily challenges you face—from high platform commissions and inaccessible customer data to the struggle for visibility on Google Maps.
 
-我们不谈空洞的理论，只分享经过验证的、能直接转化为利润的实战方法。
+We focus on proven, real-world methods that translate directly into profit.
 
-<br>
+## 📚 Upcoming Topics
 
-## ⭐ 精选文章 (Featured Article)
+We are constantly expanding this knowledge base. Future topics will include:
 
-### **文章标题：The Ultimate Showdown: Google Maps vs. Delivery Apps for Fast-Food Restaurants**
+-   **The Ultimate Guide to Google Maps SEO**: A deep dive into ranking in the top 3 of local search results.
+-   **Building Your Own Commission-Free Ordering System**: A step-by-step tutorial for creating your independent online ordering website.
+-   **Customer Loyalty & Retention**: Strategies for building a membership system and using marketing automation to generate over 60% of your revenue from repeat customers.
+-   **AI for Restaurants**: How to leverage AI tools to automate review management, social media, and marketing campaigns.
 
-这篇文章深入剖析了当今餐厅老板面临的最大战略抉择：是继续依赖外卖平台"租用"客户，还是利用谷歌地图建立自己的、免佣金的客户获取渠道？
+## 💡 About Yingrest
 
-文章将为您揭示：
-*   依赖第三方平台背后，除了高佣金外，还有哪些更危险的"隐形成本"。
-*   如何构建一个以谷歌地图为核心的"Google-First"增长模型。
-*   一个能真正赚钱的线上系统，必须具备的三大核心支柱。
+**Yingrest** is an all-in-one online growth platform designed for restaurant owners. We provide a complete solution, from Google Maps optimization and commission-free websites to automated loyalty marketing.
 
-➡️ **[点击此处，阅读完整文章](./google-maps-vs-delivery-apps.md)**
+Our mission: **Let us handle the complexity, so you can focus on your business.**
 
-<br>
+Ready to take back your profits and your customers?
 
-## 📚 未来主题 (Upcoming Topics)
+➡️ **Visit our website for a free growth strategy consultation: [https://ai.yingrest.com/](https://ai.yingrest.com/)**
 
-我们正在持续更新这个策略库，未来将涵盖更多您关心的话题：
+---
 
-*   **谷歌地图SEO深度指南**: 如何在30天内让您的餐厅排名进入本地前三。
-*   **0佣金点餐系统搭建**: 从零到一，建立您自己的线上点餐网站。
-*   **餐厅私域流量运营**: 如何利用会员系统和自动化营销，让回头客的消费占比超过60%。
-*   **AI赋能**: 如何使用AI工具，自动管理您的线上好评和营销活动。
+## 📄 License
 
-<br>
-
-## 💡 关于Yingrest (About Yingrest)
-
-**Yingrest** 是一款专为餐厅老板设计的一站式线上增长平台。我们提供从谷歌地图排名优化、0佣金独立网站与App搭建，到自动化会员营销的全套解决方案，每年仅需€100。
-
-我们的使命是：**将麻烦事交给我们，让您只需专注您的好生意。**
-
-准备好夺回您的利润和客户了吗？
-
-➡️ **访问我们的官网，获取免费的增长策略咨询：[https://ai.yingrest.com/](https://ai.yingrest.com/)**
-
-<br>
-
-## 📄 许可协议 (License)
-
-本项目下的所有内容均采用 [MIT License](./LICENSE) 许可协议。
+All content in this project is licensed under the [MIT License](./LICENSE).
