@@ -71,4 +71,4 @@ An agency can build you a beautiful, custom website, but the costs are often pro
 
 Building a website is easy. Building a system that consistently attracts new customers, converts them into profitable orders, and turns them into loyal fans is what truly matters. Stop renting your customers from third-party apps and paying exorbitant fees for the privilege. An all-in-one platform gives you the power to take back control of your brand, your data, and your bottom line.
 
-Stop giving away your profits and start owning your online presence. Get started with Yingrest today.
+Stop giving away your profits and start owning your online presence. Get started with [Yingrest](https://yingrest.mytruststores.com/) today.

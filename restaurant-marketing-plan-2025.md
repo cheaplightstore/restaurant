@@ -83,9 +83,9 @@ Offer points for every euro spent, redeemable for a free appetizer or a discount
 
 Executing this 3-step flywheel plan sounds great, but it also sounds complicated and expensive, right? Traditionally, it was. You'd need a web designer, an SEO expert, an app developer, and multiple expensive marketing software subscriptions.
 
-This is exactly why we built Yingrest.
+This is exactly why we built [Yingrest](https://yingrest.mytruststores.com/).
 
-Yingrest is the first all-in-one platform specifically designed to help independent restaurant owners execute this exact 3-step growth flywheel, seamlessly and affordably.
+[Yingrest](https://yingrest.mytruststores.com/) is the first all-in-one platform specifically designed to help independent restaurant owners execute this exact 3-step growth flywheel, seamlessly and affordably.
 
 - **For Step 1 (Attract)**: Our AI-powered tools help optimize your Google Maps profile and manage your online reputation to ensure you dominate local search results
 - **For Step 2 (Convert)**: We provide you with a stunning, mobile-first website and app with a fully integrated, 100% commission-free online ordering system
@@ -99,4 +99,4 @@ It's time to stop renting your customers and start building a business you truly
 
 Ready to put this plan into action?
 
-Learn more about how Yingrest can help you implement this strategy today and start your free trial.
+Learn more about how [Yingrest](https://yingrest.mytruststores.com/) can help you implement this strategy today and start your free trial.

@@ -40,7 +40,7 @@ Forget boring monthly newsletters. Effective restaurant email marketing is about
 
 **Core Message**: A warm, personal thank you for their first order. Briefly share your restaurant's story and include a small, compelling offer for their next order (e.g., "Free Garlic Knots" or "10% Off Your Next Meal") to kickstart the loyalty loop.
 
-**How Yingrest Makes It Easy**: Because Yingrest's email system is connected to your online ordering, this welcome email is triggered and sent automatically the moment a new customer places their first order. No manual work required.
+**How [Yingrest](https://yingrest.mytruststores.com/) Makes It Easy**: Because Yingrest's email system is connected to your online ordering, this welcome email is triggered and sent automatically the moment a new customer places their first order. No manual work required.
 
 ### 2. The "We Miss You" Win-Back Flow
 
@@ -52,7 +52,7 @@ Forget boring monthly newsletters. Effective restaurant email marketing is about
 
 **Core Message**: A friendly check-in acknowledging their absence. Remind them what they're missing and offer an irresistible reason to return, like a significant discount or a popular free item. "It's been a while! Your favorite [Customer's Last Ordered Item] is waiting. Here's 20% off to welcome you back."
 
-**How Yingrest Makes It Easy**: Yingrest automatically tracks each customer's last order date. You can set it and forget it—the platform will automatically identify lapsed customers and send this email on your behalf.
+**How [Yingrest](https://yingrest.mytruststores.com/) Makes It Easy**: Yingrest automatically tracks each customer's last order date. You can set it and forget it—the platform will automatically identify lapsed customers and send this email on your behalf.
 
 ### 3. The Automated Birthday Reward
 
@@ -64,7 +64,7 @@ Forget boring monthly newsletters. Effective restaurant email marketing is about
 
 **Core Message**: Make your customer feel special with a genuine birthday wish and a high-value freebie, like a free dessert or appetizer with their next order. This is one of the most effective and beloved email campaigns you can run.
 
-**How Yingrest Makes It Easy**: Yingrest can optionally collect a customer's birthday at signup. The system then automatically sends this personalized, high-impact email on the right day, every year.
+**How [Yingrest](https://yingrest.mytruststores.com/) Makes It Easy**: Yingrest can optionally collect a customer's birthday at signup. The system then automatically sends this personalized, high-impact email on the right day, every year.
 
 ### 4. The VIP Reward for Top Spenders
 
@@ -76,7 +76,7 @@ Forget boring monthly newsletters. Effective restaurant email marketing is about
 
 **Core Message**: This isn't about a discount; it's about recognition. Thank them for their incredible loyalty and offer them an exclusive perk, like early access to a new menu, a complimentary item chosen by the chef on their next visit, or a special VIP status.
 
-**How Yingrest Makes It Easy**: A generic tool has no idea who your top spenders are. Yingrest's integrated dashboard automatically calculates customer lifetime value, allowing you to easily segment and reward the VIPs who truly drive your business.
+**How [Yingrest](https://yingrest.mytruststores.com/) Makes It Easy**: A generic tool has no idea who your top spenders are. Yingrest's integrated dashboard automatically calculates customer lifetime value, allowing you to easily segment and reward the VIPs who truly drive your business.
 
 ### 5. The Post-Dining Feedback & Review Driver
 
@@ -88,7 +88,7 @@ Forget boring monthly newsletters. Effective restaurant email marketing is about
 
 **Core Message**: A simple, automated request for feedback. "Thanks for your order! We'd love to know what you thought. If you loved it, please consider leaving us a review on Google!" Include direct links to your Google and Yelp pages.
 
-**How Yingrest Makes It Easy**: This email is automatically triggered after an order is fulfilled, striking while the experience is fresh in the customer's mind. It's the easiest way to systematically gather valuable feedback and boost your public ratings.
+**How [Yingrest](https://yingrest.mytruststores.com/) Makes It Easy**: This email is automatically triggered after an order is fulfilled, striking while the experience is fresh in the customer's mind. It's the easiest way to systematically gather valuable feedback and boost your public ratings.
 
 ## Campaign Summary
 
@@ -108,7 +108,7 @@ With a generic setup, your customer data lives in your POS, your order data is o
 
 This is where the power of an integrated platform becomes clear.
 
-| ✨ Feature | 👎 Generic Email Tool (e.g., Mailchimp) | 👍 Integrated Platform (Yingrest) |
+| ✨ Feature | 👎 Generic Email Tool (e.g., Mailchimp) | 👍 Integrated Platform ([Yingrest](https://yingrest.mytruststores.com/)) |
 | :--- | :--- | :--- |
 | **Automatic Segmentation** | No. Requires manual data export/import. | Yes. Automatically segments users by order history, spend, and date. |
 | **Direct ROI Tracking** | No. Can't see which email led to an order. | Yes. Directly ties email campaigns to online sales in one dashboard. |
@@ -117,7 +117,7 @@ This is where the power of an integrated platform becomes clear.
 
 ## The Integrated Advantage: Your Marketing on Autopilot
 
-Imagine this: A customer places their first online order through your Yingrest-powered website.
+Imagine this: A customer places their first online order through your [Yingrest](https://yingrest.mytruststores.com/)-powered website.
 
 The moment they complete their order, the system automatically:
 
@@ -131,4 +131,4 @@ Two months later, if they haven't ordered again, the system automatically sends 
 
 Effective email marketing is no longer about painstakingly crafting a monthly newsletter. It's about leveraging automation and data to build real, lasting relationships with your customers at scale.
 
-While generic tools offer the illusion of functionality, they create more work and provide no clear line of sight to your return on investment. An integrated platform like Yingrest, where your online ordering, customer data, and email marketing all live under one roof, is the only logical choice for serious restaurant owners. It saves you time, automates your growth, and finally makes email marketing the powerful, profit-driving tool it was always meant to be.
+While generic tools offer the illusion of functionality, they create more work and provide no clear line of sight to your return on investment. An integrated platform like [Yingrest](https://yingrest.mytruststores.com/), where your online ordering, customer data, and email marketing all live under one roof, is the only logical choice for serious restaurant owners. It saves you time, automates your growth, and finally makes email marketing the powerful, profit-driving tool it was always meant to be.
