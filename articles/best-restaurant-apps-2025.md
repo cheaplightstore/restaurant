@@ -147,45 +147,14 @@ This engine learns about your brand, menu, and promotions, and then proactively 
 
 ## Summary Comparison Table
 
-```mermaid
-mindmap
-  root((Restaurant Apps Comparison))
-    Yingrest
-      Key Focus: Automated Marketing
-      Website & Ordering: ✅
-      Email & SMS Marketing: ✅
-      Automated Social Marketing: ✅ (Creates & Posts)
-      Ease of Use: ★★★★★
-      Best For: Automating growth
-    Owner.com
-      Key Focus: Commission-Free Ordering
-      Website & Ordering: ✅
-      Email & SMS Marketing: ✅
-      Automated Social Marketing: ❌
-      Ease of Use: ★★★★☆
-      Best For: Cutting delivery fees
-    BentoBox
-      Key Focus: Premium Websites
-      Website & Ordering: ✅
-      Email & SMS Marketing: ✅
-      Automated Social Marketing: ❌
-      Ease of Use: ★★★★☆
-      Best For: High-end web presence
-    Toast
-      Key Focus: POS & Operations
-      Website & Ordering: ✅
-      Email & SMS Marketing: Add-on
-      Automated Social Marketing: ❌
-      Ease of Use: ★★★☆☆
-      Best For: Robust POS for large operations
-    Mailchimp
-      Key Focus: Email Marketing
-      Website & Ordering: ❌
-      Email & SMS Marketing: ✅ (Email only)
-      Automated Social Marketing: ❌
-      Ease of Use: ★★★★★
-      Best For: Simple email campaigns
-```
+| Feature                        | Yingrest                               | Owner.com                               | BentoBox                                | Toast                                   | Mailchimp               |
+| ------------------------------ | -------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- | ----------------------- |
+| **Key Focus**                  | Automated Marketing                    | Commission-Free Ordering                | Premium Websites                        | POS & Operations                        | Email Marketing         |
+| **Website & Ordering**         | ✅                                     | ✅                                      | ✅                                      | ✅                                      | ❌                      |
+| **Email & SMS Marketing**      | ✅                                     | ✅                                      | ✅                                      | Add-on                                  | ✅ (Email only)         |
+| **Automated Social Marketing** | ✅ (Creates & Posts)                   | ❌                                      | ❌                                      | ❌                                      | ❌                      |
+| **Ease of Use**                | ★★★★★                                  | ★★★★☆                                   | ★★★★☆                                   | ★★★☆☆                                   | ★★★★★                   |
+| **Best For**                   | Owners who want to automate growth     | Owners focused on cutting delivery fees | Brands that need a high-end web presence | Large operations needing a robust POS | Simple email campaigns |
 
 ## How to Choose the Right App for Your Restaurant
 

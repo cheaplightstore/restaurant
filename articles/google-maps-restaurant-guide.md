@@ -32,20 +32,12 @@ The Brand Commodity Corner
 
 On a third-party app, your brand is reduced to a tiny thumbnail, listed right next to your direct competitors. The platform's goal is to complete a transaction, not to build your brand. The user experience is generic, your unique story is lost, and customers are constantly encouraged to sort by "price" or "deals," training them to be disloyal and view your food as a commodity.
 
-```mermaid
-graph TD
-    subgraph "Vicious Cycle of Delivery Apps"
-        A["👤 Customer searches on the app"] --> B("➡️ You get an order,<br/>but pay a huge commission")
-        B --> C{"❓ You get ZERO<br/>customer data"}
-        C --> D["💔 The customer is lost forever"]
-    end
-
-    subgraph "Virtuous Cycle of a Google-First Strategy"
-        E["👤 Customer finds you on<br/>Google Maps (for FREE)"] --> F("➡️ They order directly on<br/>your website")
-        F --> G{"✅ You capture 100% of the<br/>profit & customer data"}
-        G --> H["🔄 You bring them back<br/>with loyalty tools"]
-    end
-```
+| The Vicious Cycle of Delivery Apps | The Virtuous Cycle of a Google-First Strategy |
+| :--- | :--- |
+| **Step 1: Customer searches on the app.** They are loyal to the platform, not to you. | **Step 1: Customer finds you on Google Maps (for FREE).** They are searching for your type of food in your area. |
+| **Step 2: You get an order, but pay a huge commission.** A significant portion of your revenue is immediately lost. | **Step 2: They order directly on your Yingrest website.** You control the brand experience from start to finish. |
+| **Step 3: You get ZERO customer data.** The platform owns the relationship and all valuable data. | **Step 3: You capture 100% of the profit & customer data.** The revenue and the relationship belong to you. |
+| **Step 4: The customer is lost forever.** You have no way to contact them or encourage a repeat visit. | **Step 4: You bring them back with loyalty tools.** You use the data to drive repeat business, automatically. |
 
 ## The Google-First Playbook: How to Build Your Own Customer Magnet
 
@@ -71,16 +63,11 @@ Or, you can use Yingrest.
 
 Yingrest is the all-in-one platform designed specifically to give independent restaurant owners the tools to execute a "Google-First" strategy effortlessly.
 
-```mermaid
-graph TD
-    subgraph "The Restaurant Growth Pyramid, Powered by Yingrest"
-        direction TB
-        L["<b>Loyalty</b><br/>Own Your Customer Relationships"]
-        E["<b>Engine</b><br/>Convert & Capture Profit"]
-        F["<b>Foundation</b><br/>Dominate Local Discovery"]
-        F --> E --> L
-    end
-```
+| The Restaurant Growth Pyramid      | How it works                                                                                               |
+| :--------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| **Loyalty** - Own Your Customer Relationships | Use the customer data you've captured to build lasting relationships and drive repeat business automatically. |
+| **Engine** - Convert & Capture Profit     | Convert visitors into profitable orders with your own beautiful, direct ordering system. Keep 100% of your revenue. |
+| **Foundation** - Dominate Local Discovery | Use our tools to become the #1 choice for "near me" searches. Attract a steady stream of new customers for free. |
 
 Our system includes specialized Google Maps Optimization tools that work continuously to improve your local search ranking, pushing you above the competition. Every Yingrest website comes with a beautiful, built-in commission-free ordering system, ensuring you keep every dollar you earn. And with integrated customer loyalty and marketing tools, Yingrest makes it simple to turn new customers into repeat business, automating the process of building lasting relationships.
 

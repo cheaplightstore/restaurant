@@ -103,23 +103,12 @@ With a generic setup, your customer data lives in your POS, your order data is o
 
 This is where the power of an integrated platform becomes clear.
 
-```mermaid
-graph TD
-    subgraph "Generic vs. Integrated Platforms"
-        subgraph "Generic Email Tool (e.g., Mailchimp)"
-            G1("Automatic Segmentation: ❌ (Manual)")
-            G2("Direct ROI Tracking: ❌")
-            G3("Integration with Orders: ❌")
-            G4("Ease of Use: Complex")
-        end
-        subgraph "Integrated Platform (Yingrest)"
-            I1("Automatic Segmentation: ✅ (Automatic)")
-            I2("Direct ROI Tracking: ✅")
-            I3("Integration with Orders: ✅ (Real-time)")
-            I4("Ease of Use: Effortless")
-        end
-    end
-```
+| Feature                  | Generic Email Tool (e.g., Mailchimp)    | Integrated Platform (Yingrest)                                         |
+| ------------------------ | --------------------------------------- | ---------------------------------------------------------------------- |
+| **Automatic Segmentation** | No. Requires manual data export/import. | Yes. Automatically segments users by order history, spend, and date.   |
+| **Direct ROI Tracking**    | No. Can't see which email led to an order. | Yes. Directly ties email campaigns to online sales in one dashboard.   |
+| **Integration with Orders**  | None. Completely disconnected.          | Yes. Triggers emails based on real-time order events.                  |
+| **Ease of Use for Owners** | Complex. Designed for marketers.        | Effortless. Built for restaurant owners with "set-it-and-forget-it" automations. |
 
 ## The Integrated Advantage: Your Marketing on Autopilot
 
