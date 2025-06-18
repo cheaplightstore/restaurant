@@ -24,11 +24,11 @@ This means customers order directly from your restaurant's website. The best par
 
 There is also a middle option called White-Label Delivery. This is where a customer orders on your website, but a service like DoorDash sends a driver to handle the delivery. You pay a flat fee for the delivery, but you keep the customer's information and avoid the high commission fees.
 
-| 🚚 Delivery Model       | ✅ Key Advantage                               | ❌ Key Disadvantage                             |
-| :--------------------- | :--------------------------------------------- | :---------------------------------------------- |
-| **Third-Party Apps**   | Maximum visibility to new customers.           | High commissions (15-30%) & no customer data.   |
-| **Your Own System**    | Keep 100% of profit & own all customer data.   | You are responsible for marketing & delivery.   |
-| **White-Label Delivery** | Keep profit/data & outsource driver logistics. | Pay a flat fee per delivery.                    |
+| 🚚 Delivery Model | ✅ Key Advantage | ❌ Key Disadvantage |
+| :--- | :--- | :--- |
+| **Third-Party Apps** | Maximum visibility to new customers. | High commissions (15-30%) & no customer data. |
+| **Your Own System** | Keep 100% of profit & own all customer data. | You are responsible for marketing & delivery. |
+| **White-Label Delivery** | Keep profit/data & outsource driver logistics. | Pay a flat fee per delivery. |
 
 ## Understanding the Real Costs
 
@@ -67,11 +67,11 @@ Backed by the giant Uber brand, it is very strong in busy, dense cities. Many pe
 ### Grubhub
 As one of the original delivery apps, it has a very loyal customer base in major cities like New York and Chicago. It also has a strong corporate program for office lunch orders.
 
-| 🛵 Service  | ⭐ Primary Strength                                   |
-| :---------- | :---------------------------------------------------- |
-| **DoorDash**  | Market leader, especially strong in suburbs.          |
+| 🛵 Service | ⭐ Primary Strength |
+| :--- | :--- |
+| **DoorDash** | Market leader, especially strong in suburbs. |
 | **Uber Eats** | Strong in dense cities, large user base via Uber app. |
-| **Grubhub**   | Loyal customers in major cities like NYC & Chicago.   |
+| **Grubhub** | Loyal customers in major cities like NYC & Chicago. |
 
 Don't forget to look for smaller, local delivery companies in your area. They might offer lower fees and more personal service.
 

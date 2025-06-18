@@ -30,11 +30,11 @@ These are dead ends. True growth comes from building a sustainable system you co
 
 Forget random acts of marketing. The most successful modern restaurants build a simple, powerful system that we call a "flywheel." Each part of the system feeds the next, creating momentum that grows over time. Here's how it works.
 
-| Flywheel Step      | 🎯 Key Objective                               | 🛠️ Key Actions                                                              |
-| :----------------- | :--------------------------------------------- | :------------------------------------------------------------------------- |
-| **1. Attract** ➡️ | Attract new, high-intent customers.            | Dominate Google Maps results through profile optimization and reviews.     |
-| **2. Convert** ➡️ | Convert traffic into profitable, direct orders.  | Drive visitors to a commission-free website with a seamless ordering system. |
-| **3. Retain**  🔄 | Turn one-time guests into loyal, repeat fans. | Use customer data to run automated loyalty programs and targeted campaigns.  |
+| 🚀 Flywheel Step | 🎯 Key Objective | 🛠️ Key Actions |
+| :--- | :--- | :--- |
+| **1. Attract** ➡️ | Attract new, high-intent customers. | Dominate Google Maps results through profile optimization and reviews. |
+| **2. Convert** ➡️ | Convert traffic into profitable, direct orders. | Drive visitors to a commission-free website with a seamless ordering system. |
+| **3. Retain** 🔄 | Turn one-time guests into loyal, repeat fans. | Use customer data to run automated loyalty programs and targeted campaigns. |
 
 ### Step 1: Dominate Your Local Search (The "Attract" Phase)
 

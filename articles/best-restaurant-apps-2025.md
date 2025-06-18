@@ -31,9 +31,9 @@ While its operational capabilities are top-tier, its marketing and website tools
 
 | 👍 Pros                                     | 👎 Cons                                        |
 | :----------------------------------------- | :--------------------------------------------- |
-| Extremely robust and reliable POS system | Can become very expensive with necessary add-ons |
-| Deep reporting on sales and operations   | Often requires long-term contracts           |
-| Integrates with a vast ecosystem of apps | Marketing tools are not its core strength    |
+| - Extremely robust and reliable POS system | - Can become very expensive with necessary add-ons |
+| - Deep reporting on sales and operations   | - Often requires long-term contracts           |
+| - Integrates with a vast ecosystem of apps | - Marketing tools are not its core strength    |
 
 ## 2. Mailchimp
 
@@ -52,9 +52,9 @@ The challenge, however, is that Mailchimp is a generic tool. It isn't built with
 
 | 👍 Pros                                     | 👎 Cons                                        |
 | :----------------------------------------- | :--------------------------------------------- |
-| Very easy to use, even for beginners     | Not designed specifically for restaurants    |
-| Excellent email templates and design tools | No POS or online ordering integration        |
-| Great analytics on email performance     | Requires manual work to manage customer lists |
+| - Very easy to use, even for beginners     | - Not designed specifically for restaurants    |
+| - Excellent email templates and design tools | - No POS or online ordering integration        |
+| - Great analytics on email performance     | - Requires manual work to manage customer lists |
 
 ## 3. BentoBox
 
@@ -73,9 +73,9 @@ BentoBox is an excellent choice for established brands that prioritize aesthetic
 
 | 👍 Pros                                     | 👎 Cons                                        |
 | :----------------------------------------- | :--------------------------------------------- |
-| Best-in-class website design             | Higher price point than other website builders |
-| Strong focus on SEO to help customers find you | Marketing automation is limited to email     |
-| Integrates ordering and event management | You still have to create all your own content  |
+| - Best-in-class website design             | - Higher price point than other website builders |
+| - Strong focus on SEO to help customers find you | - Marketing automation is limited to email     |
+| - Integrates ordering and event management | - You still have to create all your own content  |
 
 ## 4. Owner.com
 
@@ -94,9 +94,9 @@ It's a powerful, cost-effective solution for owners who want to consolidate thei
 
 | 👍 Pros                                     | 👎 Cons                                        |
 | :----------------------------------------- | :--------------------------------------------- |
-| Saves thousands in commission fees       | Primarily focused on customer retention      |
-| Strong email and SMS automation for re-orders | Lacks advanced social media marketing tools  |
-| Full suite of tools for one predictable fee | Less emphasis on new customer acquisition    |
+| - Saves thousands in commission fees       | - Primarily focused on customer retention      |
+| - Strong email and SMS automation for re-orders | - Lacks advanced social media marketing tools  |
+| - Full suite of tools for one predictable fee | - Less emphasis on new customer acquisition    |
 
 ## 5. Yingrest
 
@@ -113,13 +113,8 @@ Yingrest is built on a simple but powerful premise: what if a platform could act
 
 This engine learns about your brand, menu, and promotions, and then proactively creates and schedules social media posts, email newsletters, and even digital ad campaigns for you. It solves the biggest problem restaurant owners face: not having the time or expertise to create engaging marketing content consistently. While other platforms give you the tools, Yingrest does the work for you, turning your online presence into a customer-generating machine.
 
-| 👍 Pros                                     | 👎 Cons                                        |
+| Pros                                       | Cons                                           |
 | :----------------------------------------- | :--------------------------------------------- |
-| **True Marketing Automation**: Creates & posts social media content for you | Best for those with a digital-first growth strategy |
-| **All-in-One Growth Hub**: Website, ordering, CRM, and marketing in one place | As a newer player, has fewer third-party integrations |
-| **Drives New Customers**: Actively creates content to attract new followers |                                                |
-| **Data-Driven**: Marketing gets smarter as it learns from sales data |                                                |
-
 | - **True Marketing Automation**: Creates & posts social media content for you | - Best for those with a digital-first growth strategy |
 | - **All-in-One Growth Hub**: Website, ordering, CRM, and marketing in one place | - As a newer player, has fewer third-party integrations |
 | - **Drives New Customers**: Actively creates content to attract new followers | |

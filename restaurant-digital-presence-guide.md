@@ -47,13 +47,13 @@ Acquiring a new customer is expensive; retaining one is profitable. After their 
 
 As a busy restaurant owner, you don't have time to juggle a dozen different software tools. A truly dominant digital presence is managed from a single, intuitive dashboard. This central hub should allow you to update your menu, track sales analytics, manage reviews, and launch marketing campaigns effortlessly, ideally with AI-powered suggestions to help you make smarter decisions.
 
-| 🏛️ Pillar                    | 🎯 Objective                                                              |
-| :---------------------------- | :------------------------------------------------------------------------ |
-| **Google Maps Visibility**    | Attract new customers by ranking at the top of local search results.      |
-| **Commission-Free Website**   | Convert visitors into profitable orders without paying high commissions.  |
-| **Reputation Management**     | Build trust and improve SEO by generating and managing positive reviews.  |
-| **Customer Loyalty Tools**    | Turn one-time guests into loyal regulars through direct marketing.        |
-| **Central Dashboard**         | Save time and make smarter decisions by managing everything in one place. |
+| 🏛️ Pillar | 🎯 Objective |
+| :--- | :--- |
+| **Google Maps Visibility** | Attract new customers by ranking at the top of local search results. |
+| **Commission-Free Website** | Convert visitors into profitable orders without paying high commissions. |
+| **Reputation Management** | Build trust and improve SEO by generating and managing positive reviews. |
+| **Customer Loyalty Tools** | Turn one-time guests into loyal regulars through direct marketing. |
+| **Central Dashboard** | Save time and make smarter decisions by managing everything in one place. |
 
 ## How to Build Your Digital Presence (The Smart Way)
 

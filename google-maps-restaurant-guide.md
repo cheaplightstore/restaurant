@@ -27,7 +27,7 @@ The Brand Commodity Corner
 
 On a third-party app, your brand is reduced to a tiny thumbnail, listed right next to your direct competitors. The platform's goal is to complete a transaction, not to build your brand. The user experience is generic, your unique story is lost, and customers are constantly encouraged to sort by "price" or "deals," training them to be disloyal and view your food as a commodity.
 
-| The Vicious Cycle of Delivery Apps | The Virtuous Cycle of a Google-First Strategy |
+| ⚔️ The Vicious Cycle of Delivery Apps |  virtuous The Virtuous Cycle of a Google-First Strategy |
 | :--- | :--- |
 | **Step 1: Customer searches on the app.** They are loyal to the platform, not to you. | **Step 1: Customer finds you on Google Maps (for FREE).** They are searching for your type of food in your area. |
 | **Step 2: You get an order, but pay a huge commission.** A significant portion of your revenue is immediately lost. | **Step 2: They order directly on your Yingrest website.** You control the brand experience from start to finish. |
@@ -58,10 +58,10 @@ Or, you can use Yingrest.
 
 Yingrest is the all-in-one platform designed specifically to give independent restaurant owners the tools to execute a "Google-First" strategy effortlessly.
 
-| The Restaurant Growth Pyramid      | How it works                                                                                               |
-| :--------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 📈 The Restaurant Growth Pyramid | ⚙️ How it works |
+| :--- | :--- |
 | **Loyalty** - Own Your Customer Relationships | Use the customer data you've captured to build lasting relationships and drive repeat business automatically. |
-| **Engine** - Convert & Capture Profit     | Convert visitors into profitable orders with your own beautiful, direct ordering system. Keep 100% of your revenue. |
+| **Engine** - Convert & Capture Profit | Convert visitors into profitable orders with your own beautiful, direct ordering system. Keep 100% of your revenue. |
 | **Foundation** - Dominate Local Discovery | Use our tools to become the #1 choice for "near me" searches. Attract a steady stream of new customers for free. |
 
 Our system includes specialized Google Maps Optimization tools that work continuously to improve your local search ranking, pushing you above the competition. Every Yingrest website comes with a beautiful, built-in commission-free ordering system, ensuring you keep every dollar you earn. And with integrated customer loyalty and marketing tools, Yingrest makes it simple to turn new customers into repeat business, automating the process of building lasting relationships.

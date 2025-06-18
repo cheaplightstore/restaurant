@@ -92,13 +92,13 @@ Forget boring monthly newsletters. Effective restaurant email marketing is about
 
 ## Campaign Summary
 
-| 📧 Campaign Type              | 👥 Target Audience                            | 🎯 Core Goal                                         |
-| :----------------------------- | :-------------------------------------------- | :--------------------------------------------------- |
-| **Welcome & First-Time Offer** | New customers after their first order         | Convert a new guest into a repeat customer.          |
-| **"We Miss You" Win-Back**     | Lapsed customers (e.g., no order in 60 days)  | Re-engage inactive customers with a compelling offer. |
-| **Birthday Reward**            | Customers with an upcoming birthday           | Build personal connection and drive a celebration visit. |
-| **VIP Reward**                 | Top spenders / most frequent customers        | Acknowledge and reward your most loyal fans.         |
-| **Feedback & Review Driver**   | Customers shortly after an order is completed | Generate valuable feedback and positive online reviews. |
+| 📧 Campaign Type | 👥 Target Audience | 🎯 Core Goal |
+| :--- | :--- | :--- |
+| **Welcome & First-Time Offer** | New customers after their first order | Convert a new guest into a repeat customer. |
+| **"We Miss You" Win-Back** | Lapsed customers (e.g., no order in 60 days) | Re-engage inactive customers with a compelling offer. |
+| **Birthday Reward** | Customers with an upcoming birthday | Build personal connection and drive a celebration visit. |
+| **VIP Reward** | Top spenders / most frequent customers | Acknowledge and reward your most loyal fans. |
+| **Feedback & Review Driver** | Customers shortly after an order is completed | Generate valuable feedback and positive online reviews. |
 
 ## The Tool Dilemma: Generic vs. Integrated Platforms
 
@@ -108,12 +108,12 @@ With a generic setup, your customer data lives in your POS, your order data is o
 
 This is where the power of an integrated platform becomes clear.
 
-| ✨ Feature               | 👎 Generic Email Tool (e.g., Mailchimp) | 👍 Integrated Platform (Yingrest)                                      |
-| :----------------------- | :-------------------------------------- | :--------------------------------------------------------------------- |
-| **Automatic Segmentation** | No. Requires manual data export/import. | Yes. Automatically segments users by order history, spend, and date.   |
-| **Direct ROI Tracking**    | No. Can't see which email led to an order. | Yes. Directly ties email campaigns to online sales in one dashboard.   |
-| **Integration with Orders**  | None. Completely disconnected.          | Yes. Triggers emails based on real-time order events.                  |
-| **Ease of Use for Owners** | Complex. Designed for marketers.        | Effortless. Built for restaurant owners with "set-it-and-forget-it" automations. |
+| ✨ Feature | 👎 Generic Email Tool (e.g., Mailchimp) | 👍 Integrated Platform (Yingrest) |
+| :--- | :--- | :--- |
+| **Automatic Segmentation** | No. Requires manual data export/import. | Yes. Automatically segments users by order history, spend, and date. |
+| **Direct ROI Tracking** | No. Can't see which email led to an order. | Yes. Directly ties email campaigns to online sales in one dashboard. |
+| **Integration with Orders** | None. Completely disconnected. | Yes. Triggers emails based on real-time order events. |
+| **Ease of Use for Owners** | Complex. Designed for marketers. | Effortless. Built for restaurant owners with "set-it-and-forget-it" automations. |
 
 ## The Integrated Advantage: Your Marketing on Autopilot
 
