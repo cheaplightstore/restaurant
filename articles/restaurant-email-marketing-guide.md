@@ -95,6 +95,16 @@ Forget boring monthly newsletters. Effective restaurant email marketing is about
 
 **How Yingrest Makes It Easy**: This email is automatically triggered after an order is fulfilled, striking while the experience is fresh in the customer's mind. It's the easiest way to systematically gather valuable feedback and boost your public ratings.
 
+## Campaign Summary
+
+| Campaign Type                  | Target Audience                               | Core Goal                                            |
+| ------------------------------ | --------------------------------------------- | ---------------------------------------------------- |
+| **Welcome & First-Time Offer** | New customers after their first order         | Convert a new guest into a repeat customer.          |
+| **"We Miss You" Win-Back**     | Lapsed customers (e.g., no order in 60 days)  | Re-engage inactive customers with a compelling offer. |
+| **Birthday Reward**            | Customers with an upcoming birthday           | Build personal connection and drive a celebration visit. |
+| **VIP Reward**                 | Top spenders / most frequent customers        | Acknowledge and reward your most loyal fans.         |
+| **Feedback & Review Driver**   | Customers shortly after an order is completed | Generate valuable feedback and positive online reviews. |
+
 ## The Tool Dilemma: Generic vs. Integrated Platforms
 
 So, why can't you just use a standard tool like Mailchimp? The answer is simple: disconnected data.
