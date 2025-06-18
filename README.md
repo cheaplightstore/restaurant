@@ -1,7 +1,33 @@
-# restaurant
-# Yingrest - 餐厅线上增长与营销策略库
+# Restaurant Growth & Marketing Guides
 
-> 专为独立餐厅老板设计的深度文章与资源库，助您在数字时代夺回利润，实现可持续增长。
+Welcome to our collection of in-depth guides and analysis for modern restaurant owners. This repository is dedicated to providing actionable strategies and insights on digital marketing, technology, and operations to help independent restaurants thrive in a competitive landscape.
+
+Our goal is to empower you with the knowledge to increase profits, build a loyal customer base, and take back control from high-commission platforms.
+
+## Articles
+
+Here is a complete list of the guides available:
+
+-   **[The 5 Best Restaurant Apps to Automate Growth in 2025](./articles/best-restaurant-apps-2025.md)**
+    -   A detailed comparison of the top restaurant apps, helping you choose the right tools for POS, marketing, and online ordering.
+
+-   **[A Guide to Dominating Your Local Market with an All-in-One Digital Presence](./articles/restaurant-digital-presence-guide.md)**
+    -   Learn the 5 essential pillars for building a powerful digital presence that attracts customers and drives direct orders.
+
+-   **[Email Marketing for Restaurants: The Ultimate Guide](./articles/restaurant-email-marketing-guide.md)**
+    -   Discover how to turn first-time guests into lifelong fans with 5 automated email campaigns that generate real revenue.
+
+-   **[A Restaurant Owner's Guide to Choosing the Best Food Delivery Service](./articles/restaurant-food-delivery-service-guide.md)**
+    -   An essential guide to understanding third-party apps, direct ordering, and how to build a profitable delivery strategy.
+
+-   **[The Only Restaurant Marketing Plan You Need in 2025](./articles/restaurant-marketing-plan-2025.md)**
+    -   Implement a simple 3-step flywheel to attract new customers, convert them on your own terms, and retain them for long-term growth.
+
+-   **[2025 Restaurant Menu Trends: 15 Innovations to Wow Your Guests](./articles/restaurant-menu-trends-2025.md)**
+    -   Get ahead of the curve with 15 cutting-edge menu concepts focused on sustainability, global flavors, and personalization.
+
+-   **[Google Maps vs. Delivery Apps for Fast-Food Restaurants](./articles/google-maps-restaurant-guide.md)**
+    -   Learn how to leverage Google Maps for free customer acquisition and break free from the high commissions of delivery apps.
 
 <br>
 
@@ -17,11 +43,11 @@
 
 ### **文章标题：The Ultimate Showdown: Google Maps vs. Delivery Apps for Fast-Food Restaurants**
 
-这篇文章深入剖析了当今餐厅老板面临的最大战略抉择：是继续依赖外卖平台“租用”客户，还是利用谷歌地图建立自己的、免佣金的客户获取渠道？
+这篇文章深入剖析了当今餐厅老板面临的最大战略抉择：是继续依赖外卖平台"租用"客户，还是利用谷歌地图建立自己的、免佣金的客户获取渠道？
 
 文章将为您揭示：
-*   依赖第三方平台背后，除了高佣金外，还有哪些更危险的“隐形成本”。
-*   如何构建一个以谷歌地图为核心的“Google-First”增长模型。
+*   依赖第三方平台背后，除了高佣金外，还有哪些更危险的"隐形成本"。
+*   如何构建一个以谷歌地图为核心的"Google-First"增长模型。
 *   一个能真正赚钱的线上系统，必须具备的三大核心支柱。
 
 ➡️ **[点击此处，阅读完整文章](./google-maps-vs-delivery-apps.md)**
