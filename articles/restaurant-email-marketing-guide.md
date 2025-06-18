@@ -1,12 +1,7 @@
 ---
 title: "Email Marketing for Restaurants: The Ultimate Guide"
 description: "Learn how to use automated email marketing to turn first-time restaurant guests into lifelong fans. This guide covers 5 key campaigns to drive real revenue."
-keywords:
-  - restaurant email marketing
-  - email marketing for restaurants
-  - customer retention
-  - restaurant loyalty
-  - automated marketing
+keywords: "restaurant email marketing, email marketing for restaurants, customer retention, restaurant loyalty, automated marketing"
 ---
 
 # Email Marketing for Restaurants: The Ultimate Guide to Turning First-Time Guests into Lifelong Fans

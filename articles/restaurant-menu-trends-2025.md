@@ -1,13 +1,7 @@
 ---
 title: "2025 Restaurant Menu Trends: 15 Innovations to Wow Your Guests"
 description: "Explore 15 cutting-edge restaurant menu trends for 2025, from sustainability and global flavors to hyper-personalized dining experiences."
-keywords:
-  - restaurant menu trends
-  - food trends 2025
-  - menu development
-  - plant-based seafood
-  - global cuisine
-  - personalized dining
+keywords: "restaurant menu trends, food trends 2025, menu development, plant-based seafood, global cuisine, personalized dining"
 ---
 
 # 2025 Restaurant Menu Trends: 15 Innovations to Wow Your Guests

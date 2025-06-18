@@ -1,12 +1,7 @@
 ---
 title: "Google Maps vs. Delivery Apps for Fast-Food Restaurants"
 description: "Learn how to build a Google-First strategy for your restaurant to get free customer acquisition and capture the profit you deserve with your own direct ordering website."
-keywords:
-  - google maps for restaurants
-  - restaurant marketing
-  - delivery apps
-  - commission-free ordering
-  - customer acquisition
+keywords: "google maps for restaurants, restaurant marketing, delivery apps, commission-free ordering, customer acquisition"
 ---
 
 # The Ultimate Showdown: Google Maps vs. Delivery Apps for Fast-Food Restaurants

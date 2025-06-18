@@ -1,12 +1,7 @@
 ---
 title: "The Only Restaurant Marketing Plan You Need in 2025"
 description: "A 3-step guide for independent restaurant owners to attract more customers and increase profits with a sustainable marketing flywheel."
-keywords:
-  - restaurant marketing plan
-  - restaurant marketing
-  - local restaurant marketing
-  - google maps marketing
-  - restaurant growth
+keywords: "restaurant marketing plan, restaurant marketing, local restaurant marketing, google maps marketing, restaurant growth"
 ---
 
 # The Only Restaurant Marketing Plan You Need in 2025: A 3-Step Guide to More Customers & Higher Profits

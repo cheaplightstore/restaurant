@@ -1,12 +1,7 @@
 ---
 title: "A Restaurant Owner's Guide to Choosing the Best Food Delivery Service"
 description: "Learn how to choose the best food delivery service for your restaurant. This guide explains third-party apps, direct ordering, costs, and customer ownership."
-keywords:
-  - food delivery service
-  - restaurant delivery
-  - doordash for restaurants
-  - uber eats for restaurants
-  - commission-free ordering
+keywords: "food delivery service, restaurant delivery, doordash for restaurants, uber eats for restaurants, commission-free ordering"
 ---
 
 # A Restaurant Owner's Guide to Choosing the Best Food Delivery Service
