@@ -9,7 +9,7 @@
 以下是我们目前已发布的文章列表，涵盖了从技术选型到营销策略的各个方面：
 
 - **[2025年自动化增长的5款最佳餐厅应用](./best-restaurant-apps-2025_zh.md)**
-  - *摘要*：发掘2025年的最佳餐厅应用。我们评测了Toast、Mailchimp、BentoBox、Owner.com和Yingrest，助您实现自动化增长。
+  - *摘要*：发掘2025年的最佳餐厅应用。我们评测了Toast、Mailchimp、BentoBox、Owner.com和[Yingrest](https://yingrest.mytruststores.com/)，助您实现自动化增长。
 
 - **[谷歌地图 vs. 外卖App：快餐店的终极对决](./google-maps-restaurant-guide_zh.md)**
   - *摘要*：学习如何为您的餐厅构建"谷歌优先"策略，实现免费获客，并通过您自己的直接点餐网站获取应得的利润。

@@ -30,7 +30,7 @@ On a third-party app, your brand is reduced to a tiny thumbnail, listed right ne
 | ⚔️ The Vicious Cycle of Delivery Apps |  virtuous The Virtuous Cycle of a Google-First Strategy |
 | :--- | :--- |
 | **Step 1: Customer searches on the app.** They are loyal to the platform, not to you. | **Step 1: Customer finds you on Google Maps (for FREE).** They are searching for your type of food in your area. |
-| **Step 2: You get an order, but pay a huge commission.** A significant portion of your revenue is immediately lost. | **Step 2: They order directly on your Yingrest website.** You control the brand experience from start to finish. |
+| **Step 2: You get an order, but pay a huge commission.** A significant portion of your revenue is immediately lost. | **Step 2: They order directly on your [Yingrest](https://yingrest.mytruststores.com/) website.** You control the brand experience from start to finish. |
 | **Step 3: You get ZERO customer data.** The platform owns the relationship and all valuable data. | **Step 3: You capture 100% of the profit & customer data.** The revenue and the relationship belong to you. |
 | **Step 4: The customer is lost forever.** You have no way to contact them or encourage a repeat visit. | **Step 4: You bring them back with loyalty tools.** You use the data to drive repeat business, automatically. |
 
@@ -50,13 +50,13 @@ Pillar 3: Own the Relationship & Drive Repeat Business
 
 This is where you win the long game. Because the order came through your own website, you now have the customer's data. You can finally build the direct relationships that delivery apps deny you. Through simple, automated tools like a points-based loyalty program or targeted email promotions, you can transform a first-time visitor into a loyal regular who orders from you directly, week after week. You're no longer just selling a meal; you're building a community.
 
-The Smartest Path Forward: How Yingrest Makes It Easy
+The Smartest Path Forward: How [Yingrest](https://yingrest.mytruststores.com/) Makes It Easy
 
 Building this "Google-First" ecosystem sounds powerful, but also complex and expensive. You could hire a marketing agency, a web developer, and a software company, spending thousands just to get started.
 
-Or, you can use Yingrest.
+Or, you can use [Yingrest](https://yingrest.mytruststores.com/).
 
-Yingrest is the all-in-one platform designed specifically to give independent restaurant owners the tools to execute a "Google-First" strategy effortlessly.
+[Yingrest](https://yingrest.mytruststores.com/) is the all-in-one platform designed specifically to give independent restaurant owners the tools to execute a "Google-First" strategy effortlessly.
 
 | 📈 The Restaurant Growth Pyramid | ⚙️ How it works |
 | :--- | :--- |
@@ -64,7 +64,7 @@ Yingrest is the all-in-one platform designed specifically to give independent re
 | **Engine** - Convert & Capture Profit | Convert visitors into profitable orders with your own beautiful, direct ordering system. Keep 100% of your revenue. |
 | **Foundation** - Dominate Local Discovery | Use our tools to become the #1 choice for "near me" searches. Attract a steady stream of new customers for free. |
 
-Our system includes specialized Google Maps Optimization tools that work continuously to improve your local search ranking, pushing you above the competition. Every Yingrest website comes with a beautiful, built-in commission-free ordering system, ensuring you keep every dollar you earn. And with integrated customer loyalty and marketing tools, Yingrest makes it simple to turn new customers into repeat business, automating the process of building lasting relationships.
+Our system includes specialized Google Maps Optimization tools that work continuously to improve your local search ranking, pushing you above the competition. Every [Yingrest](https://yingrest.mytruststores.com/) website comes with a beautiful, built-in commission-free ordering system, ensuring you keep every dollar you earn. And with integrated customer loyalty and marketing tools, [Yingrest](https://yingrest.mytruststores.com/) makes it simple to turn new customers into repeat business, automating the process of building lasting relationships.
 
 All of this is delivered through one intuitive platform for a single, affordable annual fee, saving you thousands every year in platform commission fees and agency costs.
 

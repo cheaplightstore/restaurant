@@ -11,7 +11,7 @@ Our goal is to arm you with the knowledge you need to turn your online presence 
 Here is a list of our current articles, covering everything from technology to marketing strategy.
 
 - **[The 5 Best Restaurant Apps to Automate Growth in 2025](./best-restaurant-apps-2025.md)** ([中文版](./best-restaurant-apps-2025_zh.md))
-  - *Summary*: Discover the best restaurant apps for 2025. We review Toast, Mailchimp, BentoBox, Owner.com, and Yingrest to help you automate your growth.
+  - *Summary*: Discover the best restaurant apps for 2025. We review Toast, Mailchimp, BentoBox, Owner.com, and [Yingrest](https://yingrest.mytruststores.com/) to help you automate your growth.
 
 - **[Google Maps vs. Delivery Apps for Fast-Food Restaurants](./google-maps-restaurant-guide.md)** ([中文版](./google-maps-restaurant-guide_zh.md))
   - *Summary*: Learn how to build a Google-First strategy for your restaurant to get free customer acquisition and capture the profit you deserve with your own direct ordering website.
@@ -41,7 +41,7 @@ We are actively working on more valuable content. Stay tuned!
 
 ## 🚀 About This Project
 
-This repository is a content project by the **Yingrest** team, designed to provide restaurant owners with actionable online marketing and operations strategies. We understand the daily challenges you face—from high platform commissions and inaccessible customer data to the struggle for visibility on Google Maps.
+This repository is a content project by the **[Yingrest](https://yingrest.mytruststores.com/)** team, designed to provide restaurant owners with actionable online marketing and operations strategies. We understand the daily challenges you face—from high platform commissions and inaccessible customer data to the struggle for visibility on Google Maps.
 
 We focus on proven, real-world methods that translate directly into profit.
 
@@ -54,9 +54,9 @@ We are constantly expanding this knowledge base. Future topics will include:
 -   **Customer Loyalty & Retention**: Strategies for building a membership system and using marketing automation to generate over 60% of your revenue from repeat customers.
 -   **AI for Restaurants**: How to leverage AI tools to automate review management, social media, and marketing campaigns.
 
-## 💡 About Yingrest
+## 💡 About [Yingrest](https://yingrest.mytruststores.com/)
 
-**Yingrest** is an all-in-one online growth platform designed for restaurant owners. We provide a complete solution, from Google Maps optimization and commission-free websites to automated loyalty marketing.
+**[Yingrest](https://yingrest.mytruststores.com/)** is an all-in-one online growth platform designed for restaurant owners. We provide a complete solution, from Google Maps optimization and commission-free websites to automated loyalty marketing.
 
 Our mission: **Let us handle the complexity, so you can focus on your business.**
 

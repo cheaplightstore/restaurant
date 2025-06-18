@@ -98,7 +98,7 @@ It's a powerful, cost-effective solution for owners who want to consolidate thei
 | Strong email and SMS automation for re-orders | Lacks advanced social media marketing tools  |
 | Full suite of tools for one predictable fee | Less emphasis on new customer acquisition    |
 
-## 5. Yingrest
+## 5. [Yingrest](https://yingrest.mytruststores.com/)
 
 ### Core Advantage
 An intelligent platform that automates your entire digital marketing, from social media content to ad campaigns.
@@ -109,9 +109,9 @@ Transparent monthly subscription.
 ### Free Trial
 No, but offers a personalized, free demo.
 
-Yingrest is built on a simple but powerful premise: what if a platform could act as your restaurant's dedicated marketing manager? It provides a beautiful website and online ordering system, but its true power lies in its intelligent marketing engine.
+[Yingrest](https://yingrest.mytruststores.com/) is built on a simple but powerful premise: what if a platform could act as your restaurant's dedicated marketing manager? It provides a beautiful website and online ordering system, but its true power lies in its intelligent marketing engine.
 
-This engine learns about your brand, menu, and promotions, and then proactively creates and schedules social media posts, email newsletters, and even digital ad campaigns for you. It solves the biggest problem restaurant owners face: not having the time or expertise to create engaging marketing content consistently. While other platforms give you the tools, Yingrest does the work for you, turning your online presence into a customer-generating machine.
+This engine learns about your brand, menu, and promotions, and then proactively creates and schedules social media posts, email newsletters, and even digital ad campaigns for you. It solves the biggest problem restaurant owners face: not having the time or expertise to create engaging marketing content consistently. While other platforms give you the tools, [Yingrest](https://yingrest.mytruststores.com/) does the work for you, turning your online presence into a customer-generating machine.
 
 | 👍 Pros                                     | 👎 Cons                                        |
 | :----------------------------------------- | :--------------------------------------------- |
@@ -127,7 +127,7 @@ This engine learns about your brand, menu, and promotions, and then proactively 
 
 ## Summary Comparison Table
 
-| Feature                        | Yingrest                               | Owner.com                               | BentoBox                                | Toast                                   | Mailchimp               |
+| Feature                        | [Yingrest](https://yingrest.mytruststores.com/)                               | Owner.com                               | BentoBox                                | Toast                                   | Mailchimp               |
 | ------------------------------ | -------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- | ----------------------- |
 | **Key Focus**                  | Automated Marketing                    | Commission-Free Ordering                | Premium Websites                        | POS & Operations                        | Email Marketing         |
 | **Website & Ordering**         | ✅                                     | ✅                                      | ✅                                      | ✅                                      | ❌                      |
@@ -149,6 +149,6 @@ If you want a system that not only gives you a great online presence but also ac
 
 ## Put Your Growth on Autopilot
 
-Imagine having an expert marketing manager on your team, working 24/7 to grow your brand. That's the power of Yingrest. Stop worrying about what to post on Instagram or when to send your next email campaign. It's time to focus on what you do best: running an amazing restaurant.
+Imagine having an expert marketing manager on your team, working 24/7 to grow your brand. That's the power of [Yingrest](https://yingrest.mytruststores.com/). Stop worrying about what to post on Instagram or when to send your next email campaign. It's time to focus on what you do best: running an amazing restaurant.
 
-Ready to see how an intelligent marketing platform can transform your restaurant? Schedule a free, no-obligation demo of Yingrest today and let us show you how to automate your growth.
+Ready to see how an intelligent marketing platform can transform your restaurant? Schedule a free, no-obligation demo of [Yingrest](https://yingrest.mytruststores.com/) today and let us show you how to automate your growth.
