@@ -1,3 +1,14 @@
+---
+title: "Email Marketing for Restaurants: The Ultimate Guide"
+description: "Learn how to use automated email marketing to turn first-time restaurant guests into lifelong fans. This guide covers 5 key campaigns to drive real revenue."
+keywords:
+  - restaurant email marketing
+  - email marketing for restaurants
+  - customer retention
+  - restaurant loyalty
+  - automated marketing
+---
+
 # Email Marketing for Restaurants: The Ultimate Guide to Turning First-Time Guests into Lifelong Fans
 
 In the restaurant business, acquiring a new customer is five times more expensive than retaining an existing one. Yet, most owners are caught in an endless, costly cycle of chasing new diners while their hard-won customers quietly fade away. This is the "leaky bucket" syndrome, and it's a silent profit killer.
@@ -92,12 +103,23 @@ With a generic setup, your customer data lives in your POS, your order data is o
 
 This is where the power of an integrated platform becomes clear.
 
-| Feature | Generic Email Tool (e.g., Mailchimp) | Integrated Platform (Yingrest) |
-|---------|--------------------------------------|--------------------------------|
-| Automatic Segmentation | No. Requires manual data export/import. | Yes. Automatically segments users by order history, spend, and date. |
-| Direct ROI Tracking | No. Can't see which email led to an order. | Yes. Directly ties email campaigns to online sales in one dashboard. |
-| Integration with Orders | None. Completely disconnected. | Yes. Triggers emails based on real-time order events (e.g., first order, post-delivery). |
-| Ease of Use for Owners | Complex. Designed for professional marketers. | Effortless. Built specifically for restaurant owners with "set-it-and-forget-it" automations. |
+```mermaid
+graph TD
+    subgraph "Generic vs. Integrated Platforms"
+        subgraph "Generic Email Tool (e.g., Mailchimp)"
+            G1("Automatic Segmentation: ❌ (Manual)")
+            G2("Direct ROI Tracking: ❌")
+            G3("Integration with Orders: ❌")
+            G4("Ease of Use: Complex")
+        end
+        subgraph "Integrated Platform (Yingrest)"
+            I1("Automatic Segmentation: ✅ (Automatic)")
+            I2("Direct ROI Tracking: ✅")
+            I3("Integration with Orders: ✅ (Real-time)")
+            I4("Ease of Use: Effortless")
+        end
+    end
+```
 
 ## The Integrated Advantage: Your Marketing on Autopilot
 

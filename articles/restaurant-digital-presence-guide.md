@@ -1,3 +1,14 @@
+---
+title: "A Guide to Dominating Your Local Market with an All-in-One Digital Presence"
+description: "Learn the 5 pillars of a dominant digital presence for restaurants, from Google Maps visibility to commission-free ordering, and how to build it the smart way."
+keywords:
+  - restaurant digital presence
+  - local marketing
+  - google maps optimization
+  - online ordering system
+  - restaurant marketing guide
+---
+
 # Beyond the Website: A Guide to Dominating Your Local Market with an All-in-One Digital Presence
 
 As a restaurant owner, you've done it all to get noticed online: the website, the social media, the delivery apps. So why does it feel like you're still paying sky-high commissions to platforms that hide your customer data? And why are you still invisible on the one tool that drives the most local traffic—Google Maps?
