@@ -36,10 +36,17 @@ These are dead ends. True growth comes from building a sustainable system you co
 Forget random acts of marketing. The most successful modern restaurants build a simple, powerful system that we call a "flywheel." Each part of the system feeds the next, creating momentum that grows over time. Here's how it works.
 
 ```mermaid
-graph TD
-    A["<strong>Step 1: Attract</strong><br/>Dominate Google Maps results through profile optimization and reviews."] --> B
-    B["<strong>Step 2: Convert</strong><br/>Drive traffic to a commission-free website with integrated online ordering."] --> C
-    C["<strong>Step 3: Retain</strong><br/>Use customer data to run loyalty programs and targeted email campaigns."] --> A
+graph LR
+    subgraph "Step 1: Attract"
+        A["Dominate Google Maps results<br/>through profile optimization and reviews."]
+    end
+    subgraph "Step 2: Convert"
+        B["Drive traffic to a commission-free<br/>website with integrated online ordering."]
+    end
+    subgraph "Step 3: Retain"
+        C["Use customer data to run loyalty<br/>programs and targeted email campaigns."]
+    end
+    A --> B --> C --> A
 ```
 
 ### Step 1: Dominate Your Local Search (The "Attract" Phase)
