@@ -29,7 +29,7 @@ Toast is a dominant force in the restaurant tech world, and for good reason. It 
 
 While its operational capabilities are top-tier, its marketing and website tools are typically sold as add-on modules. They are functional but can feel less specialized than dedicated marketing platforms.
 
-| Pros                                       | Cons                                           |
+| 👍 Pros                                     | 👎 Cons                                        |
 | :----------------------------------------- | :--------------------------------------------- |
 | - Extremely robust and reliable POS system | - Can become very expensive with necessary add-ons |
 | - Deep reporting on sales and operations   | - Often requires long-term contracts           |
@@ -50,7 +50,7 @@ Mailchimp is a name almost everyone recognizes. It's a fantastic tool for what i
 
 The challenge, however, is that Mailchimp is a generic tool. It isn't built with a restaurant's unique needs in mind. You'll spend significant time manually importing customer lists and trying to segment audiences without direct integration into your sales or reservation data.
 
-| Pros                                       | Cons                                           |
+| 👍 Pros                                     | 👎 Cons                                        |
 | :----------------------------------------- | :--------------------------------------------- |
 | - Very easy to use, even for beginners     | - Not designed specifically for restaurants    |
 | - Excellent email templates and design tools | - No POS or online ordering integration        |
@@ -71,7 +71,7 @@ BentoBox specializes in giving restaurants a premium online look. They are maste
 
 BentoBox is an excellent choice for established brands that prioritize aesthetics and need a powerful web presence. However, the platform focuses more on providing the tools for marketing (like email campaigns and forms) rather than automating the strategy and content creation itself.
 
-| Pros                                       | Cons                                           |
+| 👍 Pros                                     | 👎 Cons                                        |
 | :----------------------------------------- | :--------------------------------------------- |
 | - Best-in-class website design             | - Higher price point than other website builders |
 | - Strong focus on SEO to help customers find you | - Marketing automation is limited to email     |
@@ -92,7 +92,7 @@ Owner.com has gained significant popularity by directly addressing a major pain 
 
 It's a powerful, cost-effective solution for owners who want to consolidate their web presence and ordering system. The platform excels at turning existing customers into regulars but is less focused on generating the social media content needed to attract new customers in the first place.
 
-| Pros                                       | Cons                                           |
+| 👍 Pros                                     | 👎 Cons                                        |
 | :----------------------------------------- | :--------------------------------------------- |
 | - Saves thousands in commission fees       | - Primarily focused on customer retention      |
 | - Strong email and SMS automation for re-orders | - Lacks advanced social media marketing tools  |

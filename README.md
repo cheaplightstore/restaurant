@@ -8,25 +8,25 @@ Our goal is to empower you with the knowledge to increase profits, build a loyal
 
 Here is a complete list of the guides available:
 
--   **[The 5 Best Restaurant Apps to Automate Growth in 2025](./articles/best-restaurant-apps-2025.md)**
+-   **[The 5 Best Restaurant Apps to Automate Growth in 2025](./best-restaurant-apps-2025.md)**
     -   A detailed comparison of the top restaurant apps, helping you choose the right tools for POS, marketing, and online ordering.
 
--   **[A Guide to Dominating Your Local Market with an All-in-One Digital Presence](./articles/restaurant-digital-presence-guide.md)**
+-   **[A Guide to Dominating Your Local Market with an All-in-One Digital Presence](./restaurant-digital-presence-guide.md)**
     -   Learn the 5 essential pillars for building a powerful digital presence that attracts customers and drives direct orders.
 
--   **[Email Marketing for Restaurants: The Ultimate Guide](./articles/restaurant-email-marketing-guide.md)**
+-   **[Email Marketing for Restaurants: The Ultimate Guide](./restaurant-email-marketing-guide.md)**
     -   Discover how to turn first-time guests into lifelong fans with 5 automated email campaigns that generate real revenue.
 
--   **[A Restaurant Owner's Guide to Choosing the Best Food Delivery Service](./articles/restaurant-food-delivery-service-guide.md)**
+-   **[A Restaurant Owner's Guide to Choosing the Best Food Delivery Service](./restaurant-food-delivery-service-guide.md)**
     -   An essential guide to understanding third-party apps, direct ordering, and how to build a profitable delivery strategy.
 
--   **[The Only Restaurant Marketing Plan You Need in 2025](./articles/restaurant-marketing-plan-2025.md)**
+-   **[The Only Restaurant Marketing Plan You Need in 2025](./restaurant-marketing-plan-2025.md)**
     -   Implement a simple 3-step flywheel to attract new customers, convert them on your own terms, and retain them for long-term growth.
 
--   **[2025 Restaurant Menu Trends: 15 Innovations to Wow Your Guests](./articles/restaurant-menu-trends-2025.md)**
+-   **[2025 Restaurant Menu Trends: 15 Innovations to Wow Your Guests](./restaurant-menu-trends-2025.md)**
     -   Get ahead of the curve with 15 cutting-edge menu concepts focused on sustainability, global flavors, and personalization.
 
--   **[Google Maps vs. Delivery Apps for Fast-Food Restaurants](./articles/google-maps-restaurant-guide.md)**
+-   **[Google Maps vs. Delivery Apps for Fast-Food Restaurants](./google-maps-restaurant-guide.md)**
     -   Learn how to leverage Google Maps for free customer acquisition and break free from the high commissions of delivery apps.
 
 ---

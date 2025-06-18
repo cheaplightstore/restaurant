@@ -12,8 +12,8 @@ The restaurant industry is in a constant state of evolution. As consumer awarene
 
 Today's diners are more conscious than ever about their health and the planet's well-being. This has put plant-forward, sustainably sourced, and wellness-focused menu items in the spotlight. To win, restaurants must champion transparency, innovation, and eco-friendly practices.
 
-| Trend                             | Core Concept                                                   |
-| --------------------------------- | -------------------------------------------------------------- |
+| 🌿 Trend                          | 💡 Core Concept                                                |
+| :-------------------------------- | :------------------------------------------------------------- |
 | **Next-Gen Plant-Based Seafood**  | Realistic fish/shellfish alternatives from algae, fungi, etc.  |
 | **Regenerative Farm Proteins**    | Meat sourced from farms that improve soil health.              |
 | **Functional Mushroom Elixirs**   | Drinks/dishes with adaptogenic mushrooms (Reishi, Lion's Mane).|
@@ -54,8 +54,8 @@ Expand beyond kombucha to explore other fermented beverages like kvass, tepache,
 
 Diners are craving culinary adventures. This appetite for the new is driving global food trends, rewarding restaurants that explore regional specialties and fuse cultures in innovative ways.
 
-| Trend                               | Core Concept                                                   |
-| ----------------------------------- | -------------------------------------------------------------- |
+| 🌶️ Trend                           | 💡 Core Concept                                                |
+| :---------------------------------- | :------------------------------------------------------------- |
 | **Hyper-Specific West African**     | Highlighting regional dishes beyond generalized "African" food. |
 | **Modern Filipino Reimagined**      | Elevating Filipino comfort food with refined techniques.       |
 | **Nikkei Cuisine Small Plates**     | Fusing Peruvian ingredients with Japanese culinary artistry.   |
@@ -96,8 +96,8 @@ Upgrade beloved Korean street food staples like kimbap and corn dogs for a sophi
 
 In 2025, the menu is more than a list of dishes—it's an experience. Success lies in focusing on customization, interactive elements, and catering to individual wellness goals.
 
-| Trend                               | Core Concept                                                    |
-| ----------------------------------- | --------------------------------------------------------------- |
+| ✨ Trend                            | 💡 Core Concept                                                 |
+| :---------------------------------- | :-------------------------------------------------------------- |
 | **Hyper-Customizable Bowls/Plates** | Allowing guests to build their own meal from curated options.   |
 | **Interactive "DIY" Desserts**      | Memorable tableside preparations or do-it-yourself kits.        |
 | **Adaptogenic & Nootropic Drinks**  | Beverages infused with ingredients for stress-relief or focus.  |
