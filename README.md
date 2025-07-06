@@ -1,56 +1,71 @@
-# restaurant
-# Yingrest - 餐厅线上增长与营销策略库
+# The Restaurant Growth Hub
 
-> 专为独立餐厅老板设计的深度文章与资源库，助您在数字时代夺回利润，实现可持续增长。
+**Read this in other languages: [中文](./README_zh.md)**
 
-<br>
+Welcome to our hub for restaurant growth strategies! This project is a collection of in-depth guides designed to help independent restaurant owners thrive in today's competitive market. Here, you'll find actionable insights and blueprints for leveraging technology, optimizing marketing, and staying ahead of the latest industry trends.
 
-## 🚀 关于本项目 (About This Project)
+Our goal is to arm you with the knowledge you need to turn your online presence into a powerful engine for customer acquisition and retention. Whether you're looking to refine your menu or build a sustainable marketing system that drives long-term profit, the resources you need are right here.
 
-这个仓库是 **Yingrest** 团队发起的内容项目，旨在为身处激烈竞争中的餐厅老板们提供真正有价值的、可执行的线上营销和运营策略。我们深知您每天面临的困境——高昂的平台佣金、看不见的客户数据、以及在谷歌地图等本地搜索中的获客难题。
+## 🚀 Published Articles
 
-我们不谈空洞的理论，只分享经过验证的、能直接转化为利润的实战方法。
+Here is a list of our current articles, covering everything from technology to marketing strategy.
 
-<br>
+- **[The 5 Best Restaurant Apps to Automate Growth in 2025](./best-restaurant-apps-2025.md)** ([中文版](./best-restaurant-apps-2025_zh.md))
+  - *Summary*: Discover the best restaurant apps for 2025. We review Toast, Mailchimp, BentoBox, Owner.com, and [Yingrest](https://yingrest.mytruststores.com/) to help you automate your growth.
 
-## ⭐ 精选文章 (Featured Article)
+- **[Google Maps vs. Delivery Apps for Fast-Food Restaurants](./google-maps-restaurant-guide.md)** ([中文版](./google-maps-restaurant-guide_zh.md))
+  - *Summary*: Learn how to build a Google-First strategy for your restaurant to get free customer acquisition and capture the profit you deserve with your own direct ordering website.
 
-### **文章标题：The Ultimate Showdown: Google Maps vs. Delivery Apps for Fast-Food Restaurants**
+- **[A Guide to Dominating Your Local Market with an All-in-One Digital Presence](./restaurant-digital-presence-guide.md)** ([中文版](./restaurant-digital-presence-guide_zh.md))
+  - *Summary*: Learn the 5 pillars of a dominant digital presence for restaurants, from Google Maps visibility to commission-free ordering, and how to build it the smart way.
 
-这篇文章深入剖析了当今餐厅老板面临的最大战略抉择：是继续依赖外卖平台“租用”客户，还是利用谷歌地图建立自己的、免佣金的客户获取渠道？
+- **[Email Marketing for Restaurants: The Ultimate Guide](./restaurant-email-marketing-guide.md)** ([中文版](./restaurant-email-marketing-guide_zh.md))
+  - *Summary*: Learn how to use automated email marketing to turn first-time restaurant guests into lifelong fans. This guide covers 5 key campaigns to drive real revenue.
 
-文章将为您揭示：
-*   依赖第三方平台背后，除了高佣金外，还有哪些更危险的“隐形成本”。
-*   如何构建一个以谷歌地图为核心的“Google-First”增长模型。
-*   一个能真正赚钱的线上系统，必须具备的三大核心支柱。
+- **[A Restaurant Owner's Guide to Choosing the Best Food Delivery Service](./restaurant-food-delivery-service-guide.md)** ([中文版](./restaurant-food-delivery-service-guide_zh.md))
+  - *Summary*: Learn how to choose the best food delivery service for your restaurant. This guide explains third-party apps, direct ordering, costs, and customer ownership.
 
-➡️ **[点击此处，阅读完整文章](./google-maps-vs-delivery-apps.md)**
+- **[The Only Restaurant Marketing Plan You Need in 2025](./restaurant-marketing-plan-2025.md)** ([中文版](./restaurant-marketing-plan-2025_zh.md))
+  - *Summary*: A 3-step guide for independent restaurant owners to attract more customers and increase profits with a sustainable marketing flywheel.
 
-<br>
+- **[2025 Restaurant Menu Trends: 15 Innovations to Wow Your Guests](./restaurant-menu-trends-2025.md)** ([中文版](./restaurant-menu-trends-2025_zh.md))
+  - *Summary*: Explore 15 cutting-edge restaurant menu trends for 2025, from sustainability and global flavors to hyper-personalized dining experiences.
 
-## 📚 未来主题 (Upcoming Topics)
+## 🔮 Upcoming Topics
 
-我们正在持续更新这个策略库，未来将涵盖更多您关心的话题：
+We are actively working on more valuable content. Stay tuned!
 
-*   **谷歌地图SEO深度指南**: 如何在30天内让您的餐厅排名进入本地前三。
-*   **0佣金点餐系统搭建**: 从零到一，建立您自己的线上点餐网站。
-*   **餐厅私域流量运营**: 如何利用会员系统和自动化营销，让回头客的消费占比超过60%。
-*   **AI赋能**: 如何使用AI工具，自动管理您的线上好评和营销活动。
+---
 
-<br>
+*All content in this project is for informational and guidance purposes.*
 
-## 💡 关于Yingrest (About Yingrest)
+## 🚀 About This Project
 
-**Yingrest** 是一款专为餐厅老板设计的一站式线上增长平台。我们提供从谷歌地图排名优化、0佣金独立网站与App搭建，到自动化会员营销的全套解决方案，每年仅需€100。
+This repository is a content project by the **[Yingrest](https://yingrest.mytruststores.com/)** team, designed to provide restaurant owners with actionable online marketing and operations strategies. We understand the daily challenges you face—from high platform commissions and inaccessible customer data to the struggle for visibility on Google Maps.
 
-我们的使命是：**将麻烦事交给我们，让您只需专注您的好生意。**
+We focus on proven, real-world methods that translate directly into profit.
 
-准备好夺回您的利润和客户了吗？
+## 📚 Upcoming Topics
 
-➡️ **访问我们的官网，获取免费的增长策略咨询：[https://ai.yingrest.com/](https://ai.yingrest.com/)**
+We are constantly expanding this knowledge base. Future topics will include:
 
-<br>
+-   **The Ultimate Guide to Google Maps SEO**: A deep dive into ranking in the top 3 of local search results.
+-   **Building Your Own Commission-Free Ordering System**: A step-by-step tutorial for creating your independent online ordering website.
+-   **Customer Loyalty & Retention**: Strategies for building a membership system and using marketing automation to generate over 60% of your revenue from repeat customers.
+-   **AI for Restaurants**: How to leverage AI tools to automate review management, social media, and marketing campaigns.
 
-## 📄 许可协议 (License)
+## 💡 About [Yingrest](https://yingrest.mytruststores.com/)
 
-本项目下的所有内容均采用 [MIT License](./LICENSE) 许可协议。
+**[Yingrest](https://yingrest.mytruststores.com/)** is an all-in-one online growth platform designed for restaurant owners. We provide a complete solution, from Google Maps optimization and commission-free websites to automated loyalty marketing.
+
+Our mission: **Let us handle the complexity, so you can focus on your business.**
+
+Ready to take back your profits and your customers?
+
+➡️ **Visit our website for a free growth strategy consultation: [https://ai.yingrest.com/](https://ai.yingrest.com/)**
+
+---
+
+## 📄 License
+
+All content in this project is licensed under the [MIT License](./LICENSE).
